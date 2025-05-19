@@ -1,0 +1,2 @@
+This dataset is originally published on Kaggle by Jayaanta Naath under the Apache License 2.0.
+Source: https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance
